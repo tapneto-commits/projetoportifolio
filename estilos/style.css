@@ -115,3 +115,10 @@ article{
   margin-bottom: 20px;
   border-radius: 8px;
 }
+
+article .video-container{
+    position: relative;
+    width: 100%;
+    margin: auto;
+    aspect-ratio: 1;
+}
